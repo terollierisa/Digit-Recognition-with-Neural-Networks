@@ -7,7 +7,7 @@ git clone https://github.com/terollierisa/Digit-Recognition-with-Neural-Networks
 cd Digit-Recognition-with-Neural-Networks
 
 # create conda environment named ascend-personal
-conda env create --file env-requirements.yaml
+conda env create --file env-requirements.yml
 
 # (optional) list environments available in your system
 conda env list
